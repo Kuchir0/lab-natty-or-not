@@ -16,4 +16,4 @@ Passei um comando para a plataforma Stable Diffusion para gerar a imagem em ques
 "Pitbull in a realistic field"
 
 ## 🚀 Resultados
-
+https://raw.githubusercontent.com/Kuchir0/lab-natty-or-not/main/Dog%20IA.jpg
